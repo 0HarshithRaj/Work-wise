@@ -35,3 +35,12 @@ WorkWise is a web-based platform designed to connect freelancers with clients, p
 ```bash
 git clone https://github.com/yourusername/workwise.git
 cd workwise
+```
+![Add Project](./gui/Addproject.png)
+![Admin Project List](./gui/AdiminProjectList.png)
+![Edit Project](./gui/EditProject.png)
+![Employer Profile](./gui/EmployerProfile.png)
+![Freelancer Profile](./gui/FreelancerProfile.png)
+![New User Registration](./gui/NewUserReg.png)
+![Project List](./gui/ProjectList.png)
+![User Login](./gui/UserLogin.png)
